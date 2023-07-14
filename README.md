@@ -1,5 +1,5 @@
 # Sign Language Recognition with Deep Learning
-## Nội dung dự án
+## Brief
 Ngôn ngữ ký hiệu là ngôn ngữ hình thể được sử dụng để giao tiếp với người điếc. Thông qua các thao tác, cử chỉ tay và biểu cảm gương mặt, những người điếc có thể dễ dàng truyền tải nội dung, ý muốn của mình tới người khác. 
 
 Bài toán nhận diện ngôn ngữ ký hiệu ở đây áp dụng công nghệ Deep Learning giúp nhận diện những con số và chữ cái thông qua các hình ảnh cử chỉ bàn tay.
